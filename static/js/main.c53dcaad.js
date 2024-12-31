@@ -10552,7 +10552,7 @@
                         }),
                         (0, De.jsx)("li", {
                           children: (0, De.jsx)(Ie, {
-                            to: "https://henry-9.gitbook.io/henry/",
+                            to: "https://docs.degenai.cc",
                             children: (0, De.jsx)("p", { children: "Docs" }),
                           }),
                         }),
@@ -10586,13 +10586,13 @@
                         }),
                       }),
                       (0, De.jsx)("a", {
-                        href: "https://x.com/",
+                        href: "https://x.com/DegenAI_ETH",
                         target: "_blank",
                         rel: "noreferrer",
                         children: (0, De.jsx)("img", { src: _e, alt: "X" }),
                       }),
                       (0, De.jsx)("a", {
-                        href: "https://t.me/",
+                        href: "https://t.me/DegenAI_ETH",
                         target: "_blank",
                         rel: "noreferrer",
                         children: (0, De.jsx)("img", {
