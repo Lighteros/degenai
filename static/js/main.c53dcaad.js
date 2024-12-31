@@ -10577,7 +10577,7 @@
                     className: "socials-wrap",
                     children: [
                       (0, De.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000",
+                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8f80a5a1aaded925b5c7dd83066a7184161c53e1?t=1735616123066",
                         target: "_blank",
                         rel: "noreferrer",
                         children: (0, De.jsx)("img", {
@@ -10601,7 +10601,7 @@
                         }),
                       }),
                       (0, De.jsx)("a", {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xE076CAb9d768be6727c036a80215feCb815ee21a",
                         target: "_blank",
                         rel: "noreferrer",
                         children: (0, De.jsx)("img", {
